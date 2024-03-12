@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Latihan1</string>
+    <string name="title">PROVINSI SULAWESI UTARA\n
+        KABUPATEN MINAHASA UTARA</string>
+    <string name="nik">NIK     : 7121213898461278</string>
+    <string name="nama">Nama    : Excelsior Valentino Yonathan</string>
+    <string name="ttl">TTL     : Lobang Buaya, 17-7-1009</string>
+    <string name="kelamin">Jenis Kelamin     : Laki-Laki</string>
+    <string name="darah">Gol. Darah : B</string>
+    <string name="alamat">Alamat   : Cempaka Hitam, Jogja Luar</string>
+    <string name="agama">Agama    : Sementara Masih Bingung</string>
+    <string name="status">Status   : Lajang dari Lahir</string>
+    <string name="pekerjaan">Pekerjaan : Hidup di Dunia</string>
+    <string name="warga">Kewarganegaraan : Wanokuni</string>
+    <string name="berlaku">Berlaku Hingga : Mati</string>
+    <string name="minahasa">MINAHASA UTARA</string>
+    <string name="tgl">10-10-1010</string>
+</resources>
